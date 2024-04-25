@@ -28,4 +28,4 @@ This project demonstrates how to:
 This project focuses on predicting stock prices for Microsoft (MSFT) using historical data. You can modify the code to work with other stock datasets by replacing MSFT.csv with the desired CSV file.
 
 ## Contributors
-Milena Aghabekyan
+Milena Aghabekyan 
